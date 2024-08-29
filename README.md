@@ -3,11 +3,11 @@
 
 Kauan da Silva Teixeira
 
--Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 
--Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você pode conversar comigo por 📫
 
