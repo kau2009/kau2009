@@ -12,3 +12,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 silva.teixeira.kauan@escola.pr.gov.br
 
 @kauanteixeira
+
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
