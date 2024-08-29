@@ -1,7 +1,6 @@
 ### boas vindas ao meu canal 😄
 
 
-##Boas vindas ao meu perfil 💙💙
 Kauan da Silva Teixeira
 
 Estou estudando na Alura
@@ -11,4 +10,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 ### Você pode conversar comigo por 📫
 
 silva.teixeira.kauan@escola.pr.gov.br
+
 @kauanteixeira
